@@ -12,4 +12,3 @@ else {a.push(matrix[i])}
 }
 return a.flat();
 }
-};
